@@ -1,0 +1,22 @@
+{
+  "header": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "team": "Our Team",
+    "blog": "Blogs",
+    "contact": "Contact Us",
+    "book": "Book An Appointment"
+  },
+  "hero": {
+    "title": "Lorem Ipsum",
+    "subtitle": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has been the industry's standard since the 1500s.",
+    "button": "Read More"
+  },
+  "footer": {
+    "subscribe": "Subscribe",
+    "email": "Email",
+    "contacts": "Contacts",
+    "copyright": "© 2024 All rights reserved."
+  }
+}

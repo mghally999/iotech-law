@@ -1,0 +1,36 @@
+{
+  "site": {
+    "title": "IO Tech - Law Firm",
+    "base_url": "/",
+    "favicon": "/favicon.ico",
+    "logo": "/images/logo.png",
+    "logo_width": "200",
+    "logo_height": "48",
+    "logo_text": "IO Tech - Law Firm"
+  },
+
+  "settings": {
+    "pagination": 4,
+    "summary_length": 200,
+    "blog_folder": "blogs"
+  },
+
+  "nav_button": {
+    "enable": true,
+    "label": "Book An Appointment",
+    "link": "/contact"
+  },
+
+  "params": {
+    "contact_form_action": "",
+    "tag_manager_id": "",
+    "footer_content": "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.",
+    "copyright": "© 2024 . All rights reserved."
+  },
+
+  "metadata": {
+    "meta_author": "Mohammed Ghally",
+    "meta_image": "",
+    "meta_description": "IO Tech - Law Firm"
+  }
+}

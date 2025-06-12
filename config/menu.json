@@ -1,0 +1,97 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "About us",
+      "url": "/about"
+    },
+    {
+      "name": "Services",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Legal Consultation Services",
+          "url": "/services/legal-consultation"
+        },
+        {
+          "name": "Foreign Investment Services",
+          "url": "/services/foreign-investment"
+        },
+        { "name": "Contracts", "url": "/services/contracts" },
+        { "name": "Notarization", "url": "/services/notarization" },
+        { "name": "Insurance", "url": "/services/insurance" },
+        { "name": "... and Defense in All Cases", "url": "/services/defense" },
+        {
+          "name": "Banks and Financial Institutions",
+          "url": "/services/banks"
+        },
+        {
+          "name": "Corporate Governance Services",
+          "url": "/services/governance"
+        },
+        { "name": "Companies Liquidation", "url": "/services/liquidation" },
+        {
+          "name": "Internal Regulations for Companies",
+          "url": "/services/regulations"
+        },
+        { "name": "Intellectual Property", "url": "/services/ip" },
+        {
+          "name": "Corporate Restructuring and Reorganization",
+          "url": "/services/restructuring"
+        },
+        { "name": "Supporting Vision 2030", "url": "/services/vision-2030" },
+        { "name": "Estates", "url": "/services/estates" },
+        {
+          "name": "Services for Companies and Institutions",
+          "url": "/services/companies"
+        },
+        {
+          "name": "Establishing National and Foreign Companies",
+          "url": "/services/establishing"
+        },
+        { "name": "Arbitration", "url": "/services/arbitration" },
+        { "name": "Commercial Agencies", "url": "/services/agencies" }
+      ]
+    },
+    {
+      "name": "Our Team",
+      "url": "/team"
+    },
+    {
+      "name": "Blogs",
+      "url": "/blogs"
+    },
+    {
+      "name": "Contact Us",
+      "url": "/contact"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Company",
+      "menu": [
+        { "text": "Pricing", "url": "/pricing" },
+        { "text": "Quick Start", "url": "#" }
+      ]
+    },
+    {
+      "name": "Product",
+      "menu": [
+        { "text": "Features", "url": "#" },
+        { "text": "Platform", "url": "#" },
+        { "text": "Pricing", "url": "/pricing" }
+      ]
+    },
+    {
+      "name": "Support",
+      "menu": [
+        { "text": "FAQ", "url": "/faq" },
+        { "text": "Privacy Policy", "url": "#" },
+        { "text": "Terms & Conditions", "url": "#" }
+      ]
+    }
+  ]
+}
